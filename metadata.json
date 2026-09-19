@@ -1,0 +1,6 @@
+{
+  "name": "Made It",
+  "description": "Bring Local Businesses Online - Platform by SB Creatives",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
